@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Abstract ve Tum Yapılar/1.0.0": {
+        "dependencies": {
+          "FormLoadLib": "1.0.0",
+          "MusicLib": "1.0.0"
+        },
+        "runtime": {
+          "Abstract ve Tum Yapılar.dll": {}
+        }
+      },
+      "FormLoadLib/1.0.0": {
+        "runtime": {
+          "FormLoadLib.dll": {}
+        }
+      },
+      "MusicLib/1.0.0": {
+        "runtime": {
+          "MusicLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract ve Tum Yapılar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormLoadLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

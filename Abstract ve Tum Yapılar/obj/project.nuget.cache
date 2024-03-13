@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUrdlS8Dl0gmkKeqI5m1bLUuMS268T1dQTkSpCy8nSqLEkv2YNhPnhA3IbdvsSXM4Xfg/DkIIbSF6Ve/iYbJeQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\Abstract ve Tum Yapılar\\Abstract ve Tum Yapılar.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\Users\\ezelc\\Desktop\\Github Projeleri\\FormLoadLib\\FormLoadLib.csproj' projesi bulunamadı. Proje başvurusunun geçerli olup olmadığını ve proje dosyasının mevcut olup olmadığını denetleyin.",
+      "libraryId": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\FormLoadLib\\FormLoadLib.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\Users\\ezelc\\Desktop\\Github Projeleri\\MusicLib\\MusicLib.csproj' projesi bulunamadı. Proje başvurusunun geçerli olup olmadığını ve proje dosyasının mevcut olup olmadığını denetleyin.",
+      "libraryId": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\MusicLib\\MusicLib.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

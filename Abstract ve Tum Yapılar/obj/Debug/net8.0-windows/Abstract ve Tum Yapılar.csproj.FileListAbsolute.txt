@@ -1,0 +1,22 @@
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\Abstract ve Tum Yapılar.exe
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\Abstract ve Tum Yapılar.deps.json
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\Abstract ve Tum Yapılar.runtimeconfig.json
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\Abstract ve Tum Yapılar.dll
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\Abstract ve Tum Yapılar.pdb
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract_ve_Tum_Yapılar.Form1.resources
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.csproj.GenerateResource.cache
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.AssemblyInfoInputs.cache
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.AssemblyInfo.cs
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.dll
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\refint\Abstract ve Tum Yapılar.dll
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.pdb
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.genruntimeconfig.cache
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\ref\Abstract ve Tum Yapılar.dll
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\MusicLib.dll
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\MusicLib.pdb
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.csproj.AssemblyReference.cache
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract.6BBDAF1F.Up2Date
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\FormLoadLib.dll
+C:\Users\ezelc\Desktop\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\FormLoadLib.pdb
