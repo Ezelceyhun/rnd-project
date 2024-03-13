@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezelc\\Desktop\\MusicLib\\MusicLib.csproj",
+      "projectUniqueName": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\Tüm Yapılar\\MusicLib\\MusicLib.csproj",
       "projectName": "MusicLib",
-      "projectPath": "C:\\Users\\ezelc\\Desktop\\MusicLib\\MusicLib.csproj",
+      "projectPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\Tüm Yapılar\\MusicLib\\MusicLib.csproj",
       "packagesPath": "C:\\Users\\ezelc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezelc\\Desktop\\MusicLib\\obj\\",
+      "outputPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\Tüm Yapılar\\MusicLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezelc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -44,6 +44,7 @@
             listBox3 = new ListBox();
             textBox1 = new TextBox();
             label2 = new Label();
+            button7 = new Button();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -107,7 +108,7 @@
             groupBox1.Controls.Add(listBox1);
             groupBox1.Location = new Point(12, 129);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(396, 295);
+            groupBox1.Size = new Size(396, 330);
             groupBox1.TabIndex = 5;
             groupBox1.TabStop = false;
             groupBox1.Text = "Eklenenler";
@@ -118,7 +119,7 @@
             listBox1.FormattingEnabled = true;
             listBox1.Location = new Point(6, 26);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(384, 264);
+            listBox1.Size = new Size(384, 304);
             listBox1.TabIndex = 0;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
@@ -127,7 +128,7 @@
             groupBox2.Controls.Add(listBox2);
             groupBox2.Location = new Point(414, 129);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(181, 295);
+            groupBox2.Size = new Size(181, 330);
             groupBox2.TabIndex = 6;
             groupBox2.TabStop = false;
             groupBox2.Text = "Ara Toplam";
@@ -138,7 +139,7 @@
             listBox2.FormattingEnabled = true;
             listBox2.Location = new Point(6, 26);
             listBox2.Name = "listBox2";
-            listBox2.Size = new Size(169, 264);
+            listBox2.Size = new Size(169, 304);
             listBox2.TabIndex = 0;
             // 
             // button5
@@ -210,11 +211,22 @@
             label2.TabIndex = 9;
             label2.Text = "Satın Alan Kişinin İsmi";
             // 
+            // button7
+            // 
+            button7.Location = new Point(607, 419);
+            button7.Name = "button7";
+            button7.Size = new Size(169, 42);
+            button7.TabIndex = 3;
+            button7.Text = "Tüm Ürünleri Göster";
+            button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(788, 439);
+            ClientSize = new Size(788, 473);
+            Controls.Add(button7);
             Controls.Add(label2);
             Controls.Add(textBox1);
             Controls.Add(groupBox3);
@@ -256,5 +268,6 @@
         private Label label2;
         private Label label3;
         private Button button6;
+        private Button button7;
     }
 }

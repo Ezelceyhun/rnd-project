@@ -94,7 +94,7 @@ namespace Abstract_ve_Tum_Yapılar
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Constructor Metodu
+            //Constructor Metodu
             FormLoad formLoad = new FormLoad("Satın Almak İstediğiniz Müzik Aletini Seçin");
             label1.Text = formLoad.FromBaslik;
         }
@@ -102,6 +102,13 @@ namespace Abstract_ve_Tum_Yapılar
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            //İnterface Metod Butonu
+            AllProducts next = new AllProducts();
+            next.Show();
         }
     }
 }

@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract ve Tum Yapılar", "Abstract ve Tum Yapılar.csproj", "{DF820F85-518E-4CAB-B889-0A98622132D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicLib", "..\MusicLib\MusicLib.csproj", "{8107A02D-5A7D-4926-AF49-729A584C83E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicLib", "..\MusicLib\MusicLib.csproj", "{8107A02D-5A7D-4926-AF49-729A584C83E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLoadLib", "..\FormLoadLib\FormLoadLib.csproj", "{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormLoadLib", "..\FormLoadLib\FormLoadLib.csproj", "{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllProductsLib", "..\AllProductsLib\AllProductsLib.csproj", "{F681BD7E-2D6E-40EE-94EB-166F8B877B5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F681BD7E-2D6E-40EE-94EB-166F8B877B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F681BD7E-2D6E-40EE-94EB-166F8B877B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F681BD7E-2D6E-40EE-94EB-166F8B877B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F681BD7E-2D6E-40EE-94EB-166F8B877B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

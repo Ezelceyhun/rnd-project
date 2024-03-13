@@ -9,3 +9,15 @@ C:\Users\ezelc\Desktop\FormLoadLib\obj\Debug\net8.0\FormLoadLib.dll
 C:\Users\ezelc\Desktop\FormLoadLib\obj\Debug\net8.0\refint\FormLoadLib.dll
 C:\Users\ezelc\Desktop\FormLoadLib\obj\Debug\net8.0\FormLoadLib.pdb
 C:\Users\ezelc\Desktop\FormLoadLib\obj\Debug\net8.0\ref\FormLoadLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\bin\Debug\net8.0\FormLoadLib.deps.json
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\bin\Debug\net8.0\FormLoadLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\bin\Debug\net8.0\FormLoadLib.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.AssemblyInfoInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.AssemblyInfo.cs
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.sourcelink.json
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\refint\FormLoadLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\FormLoadLib.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\FormLoadLib\obj\Debug\net8.0\ref\FormLoadLib.dll

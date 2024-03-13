@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AllProductsLib/1.0.0": {
+        "runtime": {
+          "AllProductsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllProductsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

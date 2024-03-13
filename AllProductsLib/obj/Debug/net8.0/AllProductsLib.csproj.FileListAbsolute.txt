@@ -1,0 +1,12 @@
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\bin\Debug\net8.0\AllProductsLib.deps.json
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\bin\Debug\net8.0\AllProductsLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\bin\Debug\net8.0\AllProductsLib.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.AssemblyInfoInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.AssemblyInfo.cs
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.sourcelink.json
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\refint\AllProductsLib.dll
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\AllProductsLib.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\AllProductsLib\obj\Debug\net8.0\ref\AllProductsLib.dll
