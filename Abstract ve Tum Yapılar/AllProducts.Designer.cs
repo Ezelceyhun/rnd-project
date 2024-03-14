@@ -48,7 +48,7 @@
             Controls.Add(listBox1);
             Name = "AllProducts";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "AllProducts";
+            Text = "Tüm Ürün Listesi";
             Load += AllProducts_Load;
             ResumeLayout(false);
         }

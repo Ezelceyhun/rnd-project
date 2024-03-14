@@ -31,7 +31,6 @@ C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\b
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\bin\Debug\net8.0-windows\MusicLib.pdb
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.csproj.AssemblyReference.cache
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract_ve_Tum_Yapılar.AllProducts.resources
-C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract_ve_Tum_Yapılar.Form1.resources
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.csproj.GenerateResource.cache
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.AssemblyInfoInputs.cache
@@ -45,3 +44,4 @@ C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\o
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract ve Tum Yapılar.genruntimeconfig.cache
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\ref\Abstract ve Tum Yapılar.dll
 C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract_ve_Tum_Yapılar.Properties.Resources.resources
+C:\Users\ezelc\Desktop\Github Projeleri\Tüm Yapılar\Abstract ve Tum Yapılar\obj\Debug\net8.0-windows\Abstract_ve_Tum_Yapılar.HomePage.resources

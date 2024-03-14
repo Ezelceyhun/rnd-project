@@ -1,6 +1,6 @@
 ﻿namespace Abstract_ve_Tum_Yapılar
 {
-    partial class Form1
+    partial class HomePage
     {
         /// <summary>
         ///  Required designer variable.
@@ -277,7 +277,6 @@
             Controls.Add(label1);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox2.ResumeLayout(false);

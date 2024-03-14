@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\abstract ve tum yap\u0131lar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\abstract ve tum yap\u0131lar\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8107A02D-5A7D-4926-AF49-729A584C83E3}|..\\MusicLib\\MusicLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\musiclib\\gitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}|..\\FormLoadLib\\FormLoadLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\formloadlib\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -16,14 +23,7 @@
       "AbsoluteMoniker": "D:0:0:{8107A02D-5A7D-4926-AF49-729A584C83E3}|..\\MusicLib\\MusicLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\musiclib\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB2CE1ED-C96D-4C4E-9E3C-5FD9F1A609E5}|..\\FormLoadLib\\FormLoadLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\formloadlib\\formload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8107A02D-5A7D-4926-AF49-729A584C83E3}|..\\MusicLib\\MusicLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\musiclib\\gitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +33,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
+              "RelativeDocumentMoniker": "AllProducts.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
+              "RelativeToolTip": "AllProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:38:22.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\HomePage.cs",
+              "RelativeToolTip": "HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:38:15.779Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -45,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "gitar.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\MusicLib\\gitar.cs",
               "RelativeDocumentMoniker": "..\\MusicLib\\gitar.cs",
@@ -53,11 +81,12 @@
               "RelativeToolTip": "..\\MusicLib\\gitar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:39:06.53Z"
+              "WhenOpened": "2024-03-14T07:39:06.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "music.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\MusicLib\\music.cs",
               "RelativeDocumentMoniker": "..\\MusicLib\\music.cs",
@@ -69,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Logout.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\FormLoadLib\\Logout.cs",
               "RelativeDocumentMoniker": "..\\FormLoadLib\\Logout.cs",
@@ -81,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\FormLoadLib\\Login.cs",
               "RelativeDocumentMoniker": "..\\FormLoadLib\\Login.cs",
@@ -89,12 +118,11 @@
               "RelativeToolTip": "..\\FormLoadLib\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:31.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:38:31.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FormLoad.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\FormLoadLib\\FormLoad.cs",
               "RelativeDocumentMoniker": "..\\FormLoadLib\\FormLoad.cs",
@@ -103,31 +131,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T07:38:28.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AllProducts.cs",
-              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
-              "RelativeDocumentMoniker": "AllProducts.cs",
-              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
-              "RelativeToolTip": "AllProducts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:22.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:15.779Z",
-              "EditorCaption": ""
             }
           ]
         }

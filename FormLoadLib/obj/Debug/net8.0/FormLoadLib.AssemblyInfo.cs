@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormLoadLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fc7e69352981be8151582e0a96a356eca3073cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce2ef94e716e633e308f919db939e4c3d9ef7a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormLoadLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormLoadLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
