@@ -8,6 +8,7 @@ namespace FormLoadLib
 {
     public class Login : FormLoad
     {
+        //Virtual - Override Kullanımı
         public override void Form_L()
         {
             FormBaslik = "Satın Almak İstediğiniz Müzik Aletini Seçin";

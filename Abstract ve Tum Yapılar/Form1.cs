@@ -103,6 +103,7 @@ namespace Abstract_ve_Tum_Yapılar
 
         private void login_btn_Click(object sender, EventArgs e)
         {
+            //Virtual - Override Kullanımı
             FormLoad formLoad = new Login();
             formLoad.Form_L();
             label1.Text = formLoad.FormBaslik;
@@ -113,6 +114,7 @@ namespace Abstract_ve_Tum_Yapılar
 
         private void logout_btn_Click(object sender, EventArgs e)
         {
+            //Virtual - Override Kullanımı
             FormLoad formLoad = new Logout();
             formLoad.Form_L();
             label1.Text = formLoad.FormBaslik;

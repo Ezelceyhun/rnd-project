@@ -24,6 +24,7 @@ namespace Abstract_ve_Tum_Yapılar
         private void AllProducts_Load(object sender, EventArgs e)
         {
             //İnterface Metod
+            //Polymorphism
             gitar.Sell();
             flut.Sell();
             bateri.Sell();
