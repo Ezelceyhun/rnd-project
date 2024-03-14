@@ -16,7 +16,7 @@
       "AbsoluteMoniker": "D:0:0:{8107A02D-5A7D-4926-AF49-729A584C83E3}|..\\MusicLib\\MusicLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\musiclib\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\abstract ve tum yap\u0131lar\\allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -53,8 +53,7 @@
               "RelativeToolTip": "..\\MusicLib\\gitar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:39:06.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:39:06.53Z"
             },
             {
               "$type": "Document",
@@ -66,8 +65,7 @@
               "RelativeToolTip": "..\\MusicLib\\music.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:39:04.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:39:04.067Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "RelativeToolTip": "..\\FormLoadLib\\Logout.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:32.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:38:32.861Z"
             },
             {
               "$type": "Document",
@@ -92,8 +89,7 @@
               "RelativeToolTip": "..\\FormLoadLib\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:31.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:38:31.445Z"
             },
             {
               "$type": "Document",
@@ -105,8 +101,7 @@
               "RelativeToolTip": "..\\FormLoadLib\\FormLoad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:28.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:38:28.974Z"
             },
             {
               "$type": "Document",
@@ -118,8 +113,7 @@
               "RelativeToolTip": "AllProducts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:22.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:38:22.988Z"
             },
             {
               "$type": "Document",
@@ -129,7 +123,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAADwv3QAAAAgAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAHQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T07:38:15.779Z",
               "EditorCaption": ""
