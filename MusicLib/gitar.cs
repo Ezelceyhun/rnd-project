@@ -10,7 +10,10 @@ namespace MusicLib
     {
         public override string Sell()
         {
-            return "Klasik Gitar";
+            Model = "Yamaha Gitar";
+            Aciklama = "yamaha gitar";
+            Price = 1500;
+            return Model;
         }
     }
 }

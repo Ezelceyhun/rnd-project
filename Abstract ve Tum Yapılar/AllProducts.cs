@@ -1,4 +1,4 @@
-﻿using AllProductsLib;
+﻿using MusicLib;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,19 +17,22 @@ namespace Abstract_ve_Tum_Yapılar
         {
             InitializeComponent();
         }
-
+        flut flut = new flut();
+        davul davul = new davul();
+        gitar gitar = new gitar();
+        bateri bateri = new bateri();
         private void AllProducts_Load(object sender, EventArgs e)
         {
             //İnterface Metod
-            Products products = new Products();
-            products.gitar();
-            listBox1.Items.Add("Model: "+ products.model + "     Açıklaması: "+products.aciklama+ "     Fiyatı: "+ products.price);
-            products.flut();
-            listBox1.Items.Add("Model: " + products.model + "     Açıklaması: " + products.aciklama + "    Fiyatı: " + products.price);
-            products.davul();
-            listBox1.Items.Add("Model: " + products.model + "    Açıklaması: " + products.aciklama + "   Fiyatı: " + products.price);
-            products.batery();
-            listBox1.Items.Add("Model: " + products.model + "   Açıklaması: " + products.aciklama + "  Fiyatı: " + products.price);
+            gitar.Sell();
+            flut.Sell();
+            bateri.Sell();
+            davul.Sell();
+            listBox1.Items.Add("Model: " + gitar.Model + " - Açıklama: " + gitar.Aciklama + " - Fiyat: " + gitar.Price + " ₺");
+            listBox1.Items.Add("Model: " + davul.Model + " - Açıklama: " + davul.Aciklama + " - Fiyat: " + davul.Price + " ₺");
+            listBox1.Items.Add("Model: " + flut.Model + " - Açıklama: " + flut.Aciklama + " - Fiyat: " + flut.Price + " ₺");
+            listBox1.Items.Add("Model: " + bateri.Model + " - Açıklama: " + bateri.Aciklama + " - Fiyat: " + bateri.Price + " ₺");
+
         }
     }
 }

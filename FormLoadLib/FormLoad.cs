@@ -2,11 +2,11 @@
 {
     public class FormLoad
     {
-        public string FromBaslik { get; set; }
+        public string FormBaslik { get; set; }
 
-        public FormLoad(string baslik)
+        public virtual void Form_L()
         {
-            FromBaslik = baslik;
+            FormBaslik = "Giriş Yapmak İçin Butonu Kullanın !";
         }
     }
 }

@@ -10,7 +10,10 @@ namespace MusicLib
     {
         public override string Sell()
         {
-            return "Mavi Flüt";
+            Model = "Yamaha Flüt";
+            Aciklama = "yamaha flüt";
+            Price = 560;
+            return Model;
         }
     }
 }

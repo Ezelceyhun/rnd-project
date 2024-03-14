@@ -10,7 +10,10 @@ namespace MusicLib
     {
         public override string Sell()
         {
-            return "Davul";
+            Model = "Yamaha Davul";
+            Aciklama = "yamaha davul";
+            Price = 3600;
+            return Model;
         }
     }
 }
