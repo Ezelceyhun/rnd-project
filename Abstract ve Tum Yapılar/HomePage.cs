@@ -70,19 +70,19 @@ namespace Abstract_ve_Tum_Yapılar
                 if(toplam >= 1000 && toplam <= 4999)
                 {
                     purchaser.TotalPay = toplam;
-                    purchaser.discounted100();
+                    purchaser.Discounted100();
                     MessageBox.Show(purchaser.Message);
                 }
                 else if(toplam>=5000 && toplam <=10000)
                 {
                     purchaser.TotalPay = toplam;
-                    purchaser.discounted500();
+                    purchaser.Discounted500();
                     MessageBox.Show(purchaser.Message);
                 }
                 else if(toplam>10000)
                 {
                     purchaser.TotalPay = toplam;
-                    purchaser.discountedUnLimited();
+                    purchaser.DiscountedUnLimited();
                     MessageBox.Show(purchaser.Message);
                 }
                 else

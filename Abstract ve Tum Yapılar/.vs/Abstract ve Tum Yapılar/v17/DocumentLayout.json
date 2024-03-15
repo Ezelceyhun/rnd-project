@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8107A02D-5A7D-4926-AF49-729A584C83E3}|..\\MusicLib\\MusicLib.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\musiclib\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:allproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\t\u00FCm yap\u0131lar\\abstract ve tum yap\u0131lar\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF820F85-518E-4CAB-B889-0A98622132D1}|Abstract ve Tum Yap\u0131lar.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,34 +21,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "purchaser.cs",
-              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\MusicLib\\purchaser.cs",
-              "RelativeDocumentMoniker": "..\\MusicLib\\purchaser.cs",
-              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\MusicLib\\purchaser.cs",
-              "RelativeToolTip": "..\\MusicLib\\purchaser.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T08:43:28.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AllProducts.cs",
-              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
-              "RelativeDocumentMoniker": "AllProducts.cs",
-              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
-              "RelativeToolTip": "AllProducts.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:38:22.988Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -60,12 +34,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AllProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
+              "RelativeDocumentMoniker": "AllProducts.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\AllProducts.cs",
+              "RelativeToolTip": "AllProducts.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:38:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "purchaser.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\MusicLib\\purchaser.cs",
+              "RelativeDocumentMoniker": "..\\MusicLib\\purchaser.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\MusicLib\\purchaser.cs",
+              "RelativeToolTip": "..\\MusicLib\\purchaser.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:43:28.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\HomePage.cs",
               "RelativeDocumentMoniker": "HomePage.cs",
               "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\T\u00FCm Yap\u0131lar\\Abstract ve Tum Yap\u0131lar\\HomePage.cs",
               "RelativeToolTip": "HomePage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAYAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T07:27:20.358Z",
               "EditorCaption": ""

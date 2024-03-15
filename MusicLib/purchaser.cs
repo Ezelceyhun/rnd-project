@@ -12,15 +12,15 @@ namespace MusicLib
         public string Name { get; set; }
         public double TotalPay { get; set; }
         public string Message { get; set; }
-        public void discounted100()
+        public void Discounted100()
         {
             Message = "Sayın "+ Name + ". "+ TotalPay + "₺ Tutarında Alışveriş Yaptınız. Sonraki Alışveriş İçin 100₺ Ödül Kazandınız!";
         }
-        public void discounted500()
+        public void Discounted500()
         {
             Message = "Sayın " + Name + ". " + TotalPay + "₺ Tutarında Alışveriş Yaptınız. Sonraki Alışveriş İçin 500₺ Ödül Kazandınız!";
         }
-        public void discountedUnLimited()
+        public void DiscountedUnLimited()
         {
             Message = "Sayın " + Name + ". " + TotalPay + "₺ Tutarında Alışveriş Yaptınız. Sonraki Alışveriş İçin 1000₺ Ödül Kazandınız!";
         }
@@ -28,8 +28,8 @@ namespace MusicLib
     interface Odul
     {
         //İnterface Metodu
-        void discounted100();
-        void discounted500();
-        void discountedUnLimited();
+        void Discounted100();
+        void Discounted500();
+        void DiscountedUnLimited();
     }
 }
