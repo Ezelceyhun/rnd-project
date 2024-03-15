@@ -8,6 +8,7 @@ namespace MusicLib
 {
     public class Purchaser : Odul
     {
+        //İnterface Metodu
         public string Name { get; set; }
         public double TotalPay { get; set; }
         public string Message { get; set; }
@@ -26,6 +27,7 @@ namespace MusicLib
     }
     interface Odul
     {
+        //İnterface Metodu
         void discounted100();
         void discounted500();
         void discountedUnLimited();

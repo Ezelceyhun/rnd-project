@@ -66,6 +66,7 @@ namespace Abstract_ve_Tum_Yapılar
                 purchaser.Name = textBox1.Text;
                 textBox1.Text = "";
                 
+                //İnterface Metodu
                 if(toplam >= 1000 && toplam <= 4999)
                 {
                     purchaser.TotalPay = toplam;
