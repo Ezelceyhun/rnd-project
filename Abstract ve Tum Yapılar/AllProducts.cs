@@ -17,13 +17,12 @@ namespace Abstract_ve_Tum_Yapılar
         {
             InitializeComponent();
         }
-        flut flut = new flut();
-        davul davul = new davul();
-        gitar gitar = new gitar();
-        bateri bateri = new bateri();
+        music flut = new flut();
+        music davul = new davul();
+        music gitar = new gitar();
+        music bateri = new bateri();
         private void AllProducts_Load(object sender, EventArgs e)
         {
-            //İnterface Metod
             //Polymorphism
             gitar.Sell();
             flut.Sell();

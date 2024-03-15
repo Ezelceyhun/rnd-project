@@ -187,6 +187,7 @@
             label3.Name = "label3";
             label3.Size = new Size(0, 25);
             label3.TabIndex = 1;
+            label3.MouseClick += label3_MouseClick;
             // 
             // listBox3
             // 
@@ -266,7 +267,7 @@
             login_btn.UseVisualStyleBackColor = false;
             login_btn.Click += login_btn_Click;
             // 
-            // Form1
+            // HomePage
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -275,7 +276,7 @@
             Controls.Add(login_btn);
             Controls.Add(panel1);
             Controls.Add(label1);
-            Name = "Form1";
+            Name = "HomePage";
             StartPosition = FormStartPosition.CenterScreen;
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);

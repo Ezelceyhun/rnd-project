@@ -12,7 +12,7 @@ namespace MusicLib
         {
             Model = "Yamaha Flüt";
             Aciklama = "yamaha flüt";
-            Price = 560;
+            Price = 6800 + (6800 * 5) / 100;
             return Model;
         }
     }

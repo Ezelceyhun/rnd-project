@@ -10,11 +10,11 @@ namespace Abstract_ve_Tum_Yapılar
         }
 
         //Abstract Metodu
-        flut flut = new flut();
-        davul davul = new davul();
-        gitar gitar = new gitar();
-        bateri bateri = new bateri();
-        purchaser purchaser = new purchaser();
+        music flut = new flut();
+        music davul = new davul();
+        music gitar = new gitar();
+        music bateri = new bateri();
+        Purchaser purchaser = new Purchaser();
         private void button1_Click(object sender, EventArgs e)
         {
             //Abstract Metodu
@@ -26,7 +26,7 @@ namespace Abstract_ve_Tum_Yapılar
         private void button2_Click(object sender, EventArgs e)
         {
             //Abstract Metodu
-            bateri.Sell();
+            bateri.Sell();            
             listBox2.Items.Add(bateri.Price);
             listBox1.Items.Add("Model: " + bateri.Model);
         }
@@ -63,9 +63,32 @@ namespace Abstract_ve_Tum_Yapılar
                 }
                 listBox3.Items.Clear();
                 listBox3.Items.Add("Toplam : " + toplam + " ₺");
-                purchaser.name = textBox1.Text;
+                purchaser.Name = textBox1.Text;
                 textBox1.Text = "";
-                label3.Text = purchaser.name;
+                
+                if(toplam >= 1000 && toplam <= 4999)
+                {
+                    purchaser.TotalPay = toplam;
+                    purchaser.discounted100();
+                    MessageBox.Show(purchaser.Message);
+                }
+                else if(toplam>=5000 && toplam <=10000)
+                {
+                    purchaser.TotalPay = toplam;
+                    purchaser.discounted500();
+                    MessageBox.Show(purchaser.Message);
+                }
+                else if(toplam>10000)
+                {
+                    purchaser.TotalPay = toplam;
+                    purchaser.discountedUnLimited();
+                    MessageBox.Show(purchaser.Message);
+                }
+                else
+                {
+                    MessageBox.Show("1000 ₺ ve Üzeri Alışveriş Yapın İndirimlerimizden Faydalanın");
+                }
+                label3.Text = purchaser.Name;
             }
 
         }
@@ -96,6 +119,7 @@ namespace Abstract_ve_Tum_Yapılar
         }
         private void button7_Click(object sender, EventArgs e)
         {
+            //Polymorphism
             //İnterface Metod Butonu
             AllProducts next = new AllProducts();
             next.Show();
@@ -121,6 +145,12 @@ namespace Abstract_ve_Tum_Yapılar
             panel1.Hide();
             logout_btn.Hide();
             login_btn.Show();
+        }
+
+        private void label3_MouseClick(object sender, MouseEventArgs e)
+        {
+            //Label1'e tıklayınca Textbox'ı doldur
+            textBox1.Text = label3.Text;
         }
     }
 }

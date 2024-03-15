@@ -14,7 +14,7 @@ namespace MusicLib
         {
             Model = "Yamaha Batery";
             Aciklama = "yamaha batery";
-            Price = 2000;
+            Price = 5140 + (5140 * 9) / 100;
             return Model;
         }
     }

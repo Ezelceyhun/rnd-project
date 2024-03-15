@@ -6,8 +6,28 @@ using System.Threading.Tasks;
 
 namespace MusicLib
 {
-    public class purchaser
+    public class Purchaser : Odul
     {
-        public string name {  get; set; }
+        public string Name { get; set; }
+        public double TotalPay { get; set; }
+        public string Message { get; set; }
+        public void discounted100()
+        {
+            Message = "Sayın "+ Name + ". "+ TotalPay + "₺ Tutarında Alışveriş Yaptınız. Sonraki Alışveriş İçin 100₺ Ödül Kazandınız!";
+        }
+        public void discounted500()
+        {
+            Message = "Sayın " + Name + ". " + TotalPay + "₺ Tutarında Alışveriş Yaptınız. Sonraki Alışveriş İçin 500₺ Ödül Kazandınız!";
+        }
+        public void discountedUnLimited()
+        {
+            Message = "Sayın " + Name + ". " + TotalPay + "₺ Tutarında Alışveriş Yaptınız. Sonraki Alışveriş İçin 1000₺ Ödül Kazandınız!";
+        }
+    }
+    interface Odul
+    {
+        void discounted100();
+        void discounted500();
+        void discountedUnLimited();
     }
 }

@@ -12,7 +12,7 @@ namespace MusicLib
         {
             Model = "Yamaha Gitar";
             Aciklama = "yamaha gitar";
-            Price = 1500;
+            Price = 1500 + (1500 * 5) / 100;
             return Model;
         }
     }
