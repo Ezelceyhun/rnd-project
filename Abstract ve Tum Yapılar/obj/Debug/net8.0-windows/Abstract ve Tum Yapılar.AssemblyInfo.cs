@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abstract ve Tum Yapılar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92d09f4b5d36766fc8ea12f5a77b00674c56b8b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+306f4dfda776fe07fe3f38c1996643c74a80aced")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abstract ve Tum Yapılar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abstract ve Tum Yapılar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
